@@ -1,20 +1,8 @@
-.. gtrd-docs documentation master file, created by
-   sphinx-quickstart on Sat Jan  2 20:25:38 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to gtrd-docs's documentation!
-=====================================
+Documentation for the GTRD database
+===================================
+.. warning:: under construction
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

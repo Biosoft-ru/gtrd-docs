@@ -1,1 +1,2 @@
 sphinxcontrib-kroki
+sphinx-typlog-theme

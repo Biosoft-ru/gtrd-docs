@@ -15,12 +15,15 @@ Warning - under construction.
 So it is not needed to convert already written pages.
 <br/>```pip install recommonmark```
 
-4. ```make html``` - builds the project.
+4. Install a sphinx theme
+<br/>```pip install sphinx-typlog-theme```
+
+5. ```make html``` - builds the project.
 You can open in the browser generated html files fro 'target' directory.
 
-5. When you pull you chages int github, the documentation on readthedocs will be automatically rebuilded due to hit webhook.
+6. When you pull you chages int github, the documentation on readthedocs will be automatically rebuilded due to hit webhook.
 
-6. Open link
+7. Open link
 <br/>https://gtrd.readthedocs.io
 <br/>https://gtrd.rtfd.io
 

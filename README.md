@@ -35,7 +35,7 @@ https://www.sphinx-doc.org/en/master/contents.html
 <br/>https://www.sphinx-doc.org/en/master/usage/quickstart.html
 
 #### RST
-<br/>https://www.sphinx-doc.org/en/master/usage/restructuredtext/
+https://www.sphinx-doc.org/en/master/usage/restructuredtext/
 <br/>https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
 <br/>https://runawayhorse001.github.io/SphinxGithub/rtxt.html
 

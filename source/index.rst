@@ -7,5 +7,5 @@ Documentation for the GTRD database
    :caption: Contents:
 
    cage-seq.rst
-   cage.md
+
 

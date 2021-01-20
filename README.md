@@ -15,8 +15,9 @@ Warning - under construction.
 So it is not needed to convert already written pages.
 <br/>```pip install recommonmark```
 
-4. Install a sphinx theme
+4. Install theme (now selecting for 2 variants 'typlog' or 'cloud')
 <br/>```pip install sphinx-typlog-theme```
+<br/>```pip install cloud_sptheme```
 
 5. ```make html``` - builds the project.
 You can open in the browser generated html files fro 'target' directory.
@@ -29,13 +30,29 @@ You can open in the browser generated html files fro 'target' directory.
 
 ### References 
 
+#### Sphinx
+https://www.sphinx-doc.org/en/master/contents.html
+<br/>https://www.sphinx-doc.org/en/master/usage/quickstart.html
+
+#### RST
+<br/>https://www.sphinx-doc.org/en/master/usage/restructuredtext/
+<br/>https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
+<br/>https://runawayhorse001.github.io/SphinxGithub/rtxt.html
+
 #### Kroki - to build different diagrams
 https://kroki.io/
-https://github.com/sphinx-contrib/kroki
+<br/>https://github.com/sphinx-contrib/kroki
 
 #### Markdown 
 http://recommonmark.readthedocs.org/
-https://recommonmark.readthedocs.io/en/latest/auto_structify.html
+<br/>https://recommonmark.readthedocs.io/en/latest/auto_structify.html
+
+https://github.com/ryanfox/sphinx-markdown-tables
+
+#### Cloud theme
+https://cloud-sptheme.readthedocs.io/en/latest/
+<br/>https://cloud-sptheme.readthedocs.io/en/latest/lib/cloud_sptheme.ext.table_styling.html#module-cloud_sptheme.ext.table_styling
+
 
 ### Alternatives 
 

@@ -1,2 +1,2 @@
 sphinxcontrib-kroki
-sphinx-typlog-theme
+cloud_sptheme

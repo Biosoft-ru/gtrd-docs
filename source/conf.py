@@ -22,7 +22,6 @@ copyright = '2021, Biosoft.Ru'
 author = 'Biosoft.Ru'
 
 import sys, os
-import cloud_sptheme as csp
 
 # -- General configuration ---------------------------------------------------
 

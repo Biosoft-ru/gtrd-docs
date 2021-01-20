@@ -6,3 +6,6 @@ Documentation for the GTRD database
    :maxdepth: 2
    :caption: Contents:
 
+   cage-seq.rst
+   cage.md
+

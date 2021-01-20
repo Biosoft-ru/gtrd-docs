@@ -1,0 +1,38 @@
+   hide circle
+   skinparam linetype ortho
+
+   entity "cage_peaks_xx" as peaks {
+     *id : int(10)
+     --
+     chrom : varchar(10)
+     start : int(10)
+     end : int(10) unsigned 
+     strand : char(1)
+     abs_summit : int(10)
+     name : mediumtext
+     type : varchar(255)
+     organism : varchar(50)
+     gene_symbol : mediumtext
+     enhancer_id : int(10)
+     fantom5_id : mediumtext
+     version : int(10)
+     sourc : varchar(255)
+   }
+
+
+   entity "Entity02" as e02 {
+     *e2_id : number <<generated>>
+     --
+     *e1_id : number <<FK>>
+     other_details : text
+   }
+
+   entity "Entity03" as e03 {
+     *e3_id : number <<generated>>
+     --
+     e1_id : number <<FK>>
+     other_details : text
+   }
+
+   e01 |o..o{ e03
+

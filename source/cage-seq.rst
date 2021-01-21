@@ -3,6 +3,25 @@ CAGE-seq
 ********
 .. warning:: under construction
 
+
+Integration with FANTOM5 data
+-----------------------------
+From a user view point it will be more convenient when CAGE-seq data will be integrated one with other and with FANTOM5 data. 
+
+Main ideas are following:
+
+* to build merged set of TSSs from FANTOM5 and obtained data;
+* when TSSs are overlapping in FANTOM5 and obtained data, then maximally preserve FANTOM5 TSSs and in rare cases add new TSSs. 
+  This is the most sophisticated part. See its description below.
+* using the joined set of TSSs to build the joined table of TSSs expressions using FANTOM5 and new data. 
+  For this purpose we are recalculating TSSs expressions using their joined set. Due to the suggested approach all FANTOM5 data will be preserved and seamlessly extended by the new data.
+* annotate new TSSs using the same approach as FANTOM5. All FANTOM5 data also will be preserved and seamlessly extended by the new data.
+* while FANTOM5 does not provide enhancers and their annotation for CAGE-seq data for rat, we are building a set of enhancers using both FANTOM5 and our data.
+  to provide a unique ID for each TSS, enhancer and promoter so a user can unambiguously refer to them.
+
+The suggested approach can be used for incremental integration of other CAGE-seq data with FANTOM5 data. 
+
+
 Organisms
 ---------
 The GTRD database and FANTOM5 contains corresponding data for different organisms.

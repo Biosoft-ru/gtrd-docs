@@ -19,6 +19,12 @@
      source : varchar(255)
    }
 
+   entity "cage_peaks_expression_xx" as expression {
+     peak_id: int(10)
+     experiment_id: int(10)
+     value : float
+   }
+
    entity "cage_promoters_annotation_xx" as annotation {
      peak_id: int(10)
      external_db: varchar(30)
@@ -53,6 +59,7 @@
    peaks }o..|| annotation
    peaks }o..|| transcripts
    peaks }o..|| enhancers
+   peaks }o..|| expression
    enhancers }o..|| enhancers2genes
 
 

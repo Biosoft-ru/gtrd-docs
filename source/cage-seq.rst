@@ -110,6 +110,7 @@ Table below specifies FANTOM5 files that were imported into the GTRD database.
 
      -
    * - Mus musculus
+     - https://fantom.gsc.riken.jp/5/datafiles/reprocessed/mm10_v8
 
        + peaks - `mm10_fair+new_CAGE_peaks_phase1and2.bed.gz <https://fantom.gsc.riken.jp/5/datafiles/reprocessed/mm10_v8/extra/CAGE_peaks/mm10_fair+new_CAGE_peaks_phase1and2.bed.gz>`_
        + annotation - `mm10_fair+new_CAGE_peaks_phase1and2_ann.txt.gz <https://fantom.gsc.riken.jp/5/datafiles/reprocessed/mm10_v8/extra/CAGE_peaks_expression/mm10_fair+new_CAGE_peaks_phase1and2_ann.txt.gz>`_
@@ -117,17 +118,16 @@ Table below specifies FANTOM5 files that were imported into the GTRD database.
        + expression - `mm10_fair+new_CAGE_peaks_phase1and2_counts.osc.txt.gz <https://fantom.gsc.riken.jp/5/datafiles/reprocessed/mm10_v8/extra/CAGE_peaks_expression/mm10_fair+new_CAGE_peaks_phase1and2_counts.osc.txt.gz>`_
        + experiment description - `MouseSamples2.3.sdrf.txt <https://fantom.gsc.riken.jp/5/datafiles/latest/basic/MouseSamples2.3.sdrf.txt>`_
 
-     - 
      -
    * - Rattus norvegicus
+     - https://fantom.gsc.riken.jp/5/datafiles/latest/extra/CAGE_peaks
 
        + peaks - `rn6.cage_peak_coord.bed.gz <https://fantom.gsc.riken.jp/5/datafiles/latest/extra/CAGE_peaks/rn6.cage_peak_coord.bed.gz>`_
        + annotation - `rn6.cage_peak_ann.txt.gz <https://fantom.gsc.riken.jp/5/datafiles/latest/extra/CAGE_peaks/rn6.cage_peak_ann.txt.gz>`_
-       + enhancers - not exists in FANTOM5
+       + enhancers - are missing in FANTOM5
        + expression - `rn6.cage_peak_counts.osc.txt.gz <https://fantom.gsc.riken.jp/5/datafiles/latest/extra/CAGE_peaks/rn6.cage_peak_counts.osc.txt.gz>`_
        + experiment description - `RatSamples2.1.sdrf.txt <https://fantom.gsc.riken.jp/5/datafiles/latest/basic/RatSamples2.1.sdrf.txt>`_
 
-     -
      -
 
 CAGE peaks annotation

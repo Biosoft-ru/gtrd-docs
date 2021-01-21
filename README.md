@@ -68,4 +68,12 @@ Themes
 * [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/en/latest/) - official PyData theme
 
 
+### Problems
+Currently it is possible to build only HTML docs due to following error
+```
+  File "c:\python\python39\lib\site-packages\sphinx\writers\latex.py", line 2044, in unknown_visit 
+  raise NotImplementedError('Unknown node: ' + node.__class__.__name__)
+  NotImplementedError: Unknown node: kroki    
+```
+
 

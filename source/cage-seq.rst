@@ -3,6 +3,97 @@ CAGE-seq
 ********
 .. warning:: under construction
 
+Organisms
+---------
+The GTRD database and FANTOM5 contains corresponding data for different organisms.
+
+The table below shows species in the GTRD database and FANTOM5.
+
+Currently we include in the GTRD database CAGE-seq from FANTOM5 for 3 common species only: Homo sapiens, Mus musculus and Rattus norvegicus.
+
+.. list-table:: 
+   :header-rows: 1
+   :widths: 25, 10, 10, 20
+
+   * - Species
+     - GTRD
+     - FANTOM5
+     - Comment
+   * - Arabidopsis thaliana
+     - +
+     -
+     -
+   * - Caenorhabditis elegans, nematode
+     - +
+     -
+     -
+   * - Danio rerio, zebrafish
+     - +
+     -
+     -
+   * - Drosophila melanogaster, fruit fly
+     - +
+     -
+     -
+   * - Homo sapiens, human
+     - +
+     - +
+     -
+   * - Mus musculus, mouse
+     - +
+     - +
+     -
+   * - Rattus norvegicus, rat
+     - +
+     - +
+     -
+   * - Saccharomyces cerevisiae, budding yeast
+     - +
+     -
+     -
+   * - Schizosaccharomyces pombe, fission yeast
+     - +
+     -
+     -
+   * - Canis familiaris, dog 
+     - 
+     - +
+     - possibly will be added in GTRD next releases
+   * - Gallus gallus, chicken
+     - 
+     - +
+     - possibly will be added in GTRD next releases
+   * - Macaca mulatta, rhesus macaque
+     - 
+     - +
+     - possibly will be added in GTRD next releases
+
+     
+FANTOM5 data import
+-------------------
+Table below specifies FANTOM5 files that were imported into the GTRD database.
+
+.. list-table:: 
+   :header-rows: 1
+   :widths: 15, 65, 20
+
+   * - Species
+     - FANTOM5 directory, files
+     - Comments
+   * - Homo sapiens
+     - https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/CAGE_peaks/
+      
+       + peaks - hg38_fair+new_CAGE_peaks_phase1and2.bed.gz
+       + annotation - ...
+       + enhancers - ...
+
+     -
+   * - Mus musculus
+     - 
+     -
+   * - Rattus norvegicus
+     -
+     -
 
 CAGE peaks annotation
 ---------------------

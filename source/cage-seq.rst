@@ -128,6 +128,7 @@ Table below specifies FANTOM5 files that were imported into the GTRD database.
        + experiment description - `RatSamples2.1.sdrf.txt <https://fantom.gsc.riken.jp/5/datafiles/latest/basic/RatSamples2.1.sdrf.txt>`_
 
      -
+     -
 
 CAGE peaks annotation
 ---------------------

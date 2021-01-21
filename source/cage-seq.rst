@@ -102,10 +102,10 @@ Table below specifies FANTOM5 files that were imported into the GTRD database.
    * - Homo sapiens
      - https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/
       
-       + peaks - `hg38_fair+new_CAGE_peaks_phase1and2.bed.gz https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/CAGE_peaks/hg38_fair+new_CAGE_peaks_phase1and2.bed.gz`_
-       + annotation - `hg38_fair+new_CAGE_peaks_phase1and2_ann.txt.gz https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/CAGE_peaks_expression/hg38_fair+new_CAGE_peaks_phase1and2_ann.txt.gz`_
-       + enhancers - `F5.hg38.enhancers.bed.gz https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/enhancer/F5.hg38.enhancers.bed.gz`_
-       + expression - `hg38_fair+new_CAGE_peaks_phase1and2_counts.osc.txt.gz https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/CAGE_peaks_expression/hg38_fair+new_CAGE_peaks_phase1and2_counts.osc.txt.gz`_
+       + peaks - `hg38_fair+new_CAGE_peaks_phase1and2.bed.gz <https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/CAGE_peaks/hg38_fair+new_CAGE_peaks_phase1and2.bed.gz>`_
+       + annotation - `hg38_fair+new_CAGE_peaks_phase1and2_ann.txt.gz <https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/CAGE_peaks_expression/hg38_fair+new_CAGE_peaks_phase1and2_ann.txt.gz>`_
+       + enhancers - `F5.hg38.enhancers.bed.gz <https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/enhancer/F5.hg38.enhancers.bed.gz>`_
+       + expression - `hg38_fair+new_CAGE_peaks_phase1and2_counts.osc.txt.gz <https://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v8/extra/CAGE_peaks_expression/hg38_fair+new_CAGE_peaks_phase1and2_counts.osc.txt.gz>`_
        + experiment description - `HumanSamples2.0.sdrf.xlsx <https://fantom.gsc.riken.jp/5/datafiles/latest/basic/HumanSamples2.0.sdrf.xlsx>`_
 
      -
